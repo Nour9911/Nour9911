@@ -1,6 +1,13 @@
-
 # 💫 About Me:
-# Hey there, world-changer! 👋<br><br>I'm currently diving deep into the dynamic world of DevOps Cloud as a Junior Engineer, fueled by a passion for leveraging technology for the greater good! 💻☁️<br><br>🤝 I'm all about collaborating on projects that make waves and drive positive change. Let's team up and craft solutions that leave a lasting impact!<br><br>🔍 Currently on a mission to conquer the AWS certification realm and delve into the fascinating world of AI. My dream? To become a Cloud Architect and harness the power of AI for meaningful innovation! 🚀<br><br>📚 When I'm not immersed in AWS studies or experimenting with AI tools, you'll find me enhancing my toolkit with DevOps practices and mastering cloud infrastructure technologies. Continuous learning is my superpower! 📖<br><br>💬 Got a tech dilemma or simply want to chat about the latest trends? Drop me a line – I'm always up for an engaging conversation!<br><br>⚖️ Fun Fact: Beyond my love for tech, I'm deeply passionate about championing human rights causes. Because what's the point of knowledge if it's not used for good, right?<br><br>🎾 When I'm not diving into the world of tech, you'll often find me on the tennis court, enjoying the balance between physical activity and mental challenges. After all, a healthy mind and body are the pillars of a fulfilling life! 🎾<br><br>Let's connect and embark on this epic journey together, shaping a brighter future with every keystroke! ✨<br>
+## Hey there, world-changer! 👋<br><br>
+I'm currently diving deep into the dynamic world of DevOps Cloud as a Junior Engineer, fueled by a passion for leveraging technology for the greater good! 💻☁️<br><br>
+🤝 I'm all about collaborating on projects that make waves and drive positive change. Let's team up and craft solutions that leave a lasting impact!<br><br>
+🔍 Currently on a mission to conquer the AWS certification realm and delve into the fascinating world of AI. My dream? To become a Cloud Architect and harness the power of AI for meaningful innovation! 🚀<br><br>
+📚 When I'm not immersed in AWS studies or experimenting with AI tools, you'll find me enhancing my toolkit with DevOps practices and mastering cloud infrastructure technologies. Continuous learning is my superpower! 📖<br><br>
+💬 Got a tech dilemma or simply want to chat about the latest trends? Drop me a line – I'm always up for an engaging conversation!<br><br>
+⚖️ Fun Fact: Beyond my love for tech, I'm deeply passionate about championing human rights causes. Because what's the point of knowledge if it's not used for good, right?<br><br>
+🎾 When I'm not diving into the world of tech, you'll often find me on the tennis court, enjoying the balance between physical activity and mental challenges. After all, a healthy mind and body are the pillars of a fulfilling life! 🎾<br><br>
+Let's connect and embark on this epic journey together, shaping a brighter future with every keystroke! ✨<br>
 
 
 ## 🌐 Socials:
